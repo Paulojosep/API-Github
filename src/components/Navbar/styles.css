@@ -1,0 +1,10 @@
+.nav-container {
+  width: 1440px;
+  height: 62px;
+  background: #1890FF;
+}
+
+.nav-container h1 {
+    padding: 15px 41px;
+    color: white;
+}
