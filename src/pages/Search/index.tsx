@@ -50,7 +50,7 @@ const Search = () => {
             placeholder="Usuário Github"
             onChange={(e) => setUserName(e.target.value)}
           />
-          <ButtonIcon text="Econtrar" />
+          <ButtonIcon text="Encontrar" />
         </form>
       </section>
 
