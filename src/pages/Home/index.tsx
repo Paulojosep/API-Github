@@ -6,9 +6,9 @@ const Home = () => {
   return (
     <div className="home-container">
       <div className="home-content">
-        <h1 className="home-title">Desafio Github API</h1>
+        <h1 className="home-title">Github API</h1>
         <div className="home-text">
-          <p>Bootcamp Spring React - DevSuperior</p>
+          <p>Pesquise um usuario do Github</p>
         </div>
         <Link to="/search">
           <ButtonIcon text="Começar" />
